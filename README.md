@@ -1,18 +1,9 @@
-# React + Vite
+**LUXEDINE**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Luxedine** is a modern restaurant web application designed to offer customers a smooth and elegant dining experience online. Users can browse the menu, make reservations, place orders, and manage their accounts with ease.
 
-Currently, two official plugins are available:
+The project is built with React and Tailwind CSS for the frontend, and Node.js, Express, and MongoDB for the backend. It includes secure authentication, an admin dashboard, and image uploads for menu items.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Luxedine was created as a full-stack project to practice building a real-world application that combines beautiful design with practical functionality.
 
-## React Compiler
-
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
-
-Note: This will impact Vite dev & build performances.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Deployment Link is **luxedine-rest.vercel.app**
